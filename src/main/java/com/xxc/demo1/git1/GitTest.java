@@ -34,4 +34,24 @@ public class GitTest {
 
 
 
+    public void  getGit2(){
+        System.out.println("333333333" +
+                "" +
+                "" +
+                "" +
+                "" +
+                "" +
+                "" +
+                "");
+    }
+
+
+
+
+
+
+
+
+
+
 }
