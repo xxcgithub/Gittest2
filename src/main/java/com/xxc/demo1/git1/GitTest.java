@@ -16,4 +16,22 @@ public class GitTest {
                 "");
     }
 
+
+
+
+    public void  getGit1(){
+        System.out.println("122222211" +
+                "" +
+                "" +
+                "" +
+                "" +
+                "" +
+                "" +
+                "");
+    }
+
+
+
+
+
 }
