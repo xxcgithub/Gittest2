@@ -7,7 +7,10 @@ import javax.validation.constraints.NotBlank;
 
 @Data
 @Valid
-public class Student {
+public class
+
+Student {
+
     @Max(4)
     private String name;
     @NotBlank
